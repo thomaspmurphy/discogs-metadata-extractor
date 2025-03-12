@@ -7,7 +7,6 @@ main.js
 
 # Obsidian specific files
 data.json
-*.md
 
 # VSCode settings
 .vscode/
