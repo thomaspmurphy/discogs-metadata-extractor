@@ -2,6 +2,12 @@
 
 This is a plugin for Obsidian (https://obsidian.md) that extracts metadata from Discogs links and imports it into your notes.
 
+<img width="400" alt="Screenshot 2025-03-12 at 14 10 38" src="https://github.com/user-attachments/assets/c4afcb40-6c99-40e2-82b8-c0c823b68aad" />
+
+<img width="400" alt="Screenshot 2025-03-12 at 14 11 19" src="https://github.com/user-attachments/assets/03fb3a6a-efbf-4740-b730-c2af63505208" />
+<img width="500" alt="Screenshot 2025-03-12 at 14 14 06" src="https://github.com/user-attachments/assets/9af4b7ff-1e48-4da7-a5da-7d1ea92713f7" />
+<img width="300" alt="Screenshot 2025-03-12 at 14 14 15" src="https://github.com/user-attachments/assets/883a4163-40f3-4292-853d-403596129641" />
+
 ## Features
 
 - Extracts metadata from Discogs URLs found in the clipboard.
