@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Compiled output
+main.js
+*.map
+
+# Obsidian specific files
+data.json
+*.md
+
+# VSCode settings
+.vscode/
+
+# IntelliJ settings
+.idea/
+*.iml
+
+# macOS Finder (System Explorer) View States
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build artifacts
+dist/
+build/

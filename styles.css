@@ -1,0 +1,32 @@
+.discogs-result {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 5px 0;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+
+  .discogs-result:hover {
+    background-color: #f0f0f0;
+  }
+
+  .discogs-result h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+
+  .discogs-result p {
+    margin: 5px 0 0;
+    font-size: 0.9em;
+    color: #555;
+  }
+
+  input[type="text"] {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
+  button {
+    margin-top: 5px;
+  }

@@ -1,0 +1,11 @@
+{
+	"id": "discogs-metadata-extractor",
+	"name": "Discogs Metadata Extractor",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Grabs info from discogs for notes.",
+	"author": "Thomas Murphy",
+	"authorUrl": "https://thomas-murphy.com",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
